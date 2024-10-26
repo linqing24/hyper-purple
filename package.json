@@ -1,15 +1,15 @@
 {
   "name": "hyper-purple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "purple hyper theme",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/linqing24/hyper-purple.git"
   },
+  "files": [
+		"index.js"
+	],
   "keywords": [
     "hyper",
     "hyper-theme",
